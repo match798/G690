@@ -1,3 +1,5 @@
+# Credit: 01d_trig_fucntion_SOLUTION.ipynb in instructor's repo
+
 """ Define some constants. """
 # note that these come from having run the pi & e approximations earlier
 # define pi
