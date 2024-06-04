@@ -12,3 +12,6 @@
 06_advanced_plotting/season_max_temp_proj.png
 09_parallelization_intro/frames/*png
 09_parallelization_intro/animation_frames/
+11_spectral_analysis_intro/cannelton_flow.dat
+13_geospatial_intro/*.zip
+14_geospatial_continued/USC00121256.csv
