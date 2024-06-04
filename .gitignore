@@ -1,5 +1,6 @@
 *.html
 .DS_Store
+*__pycache__*
 
 01_fundamentals/air.2m.gauss.1983.nc
 03_data_science_modules/climdiv-tmindv-v1.0.0-20230804
@@ -7,6 +8,7 @@
 05_multidimensional_arrays_also_plotting/air.2m.gauss.1983.nc
 05_multidimensional_arrays_also_plotting/usgs_major_earthquakes_1900-2023.csv
 06_advanced_plotting/air.2m.gauss.2021.nc
-06_advanced_plotting/seasonal_max_temp.pdf
-06_advanced_plotting/season_max_temp_proj.png
 06_advanced_plotting/season_max_temp.png
+06_advanced_plotting/season_max_temp_proj.png
+09_parallelization_intro/frames/*png
+09_parallelization_intro/animation_frames/
